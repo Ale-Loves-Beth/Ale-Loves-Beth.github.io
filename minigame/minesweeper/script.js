@@ -19,7 +19,7 @@ const difficultyBtns = document.querySelectorAll('.difficulty');
 let bombs = [];
 let numbers = [];
 let numberColors = ['#3498db', '#2ecc71', '#e74c3c', '#9b59b6', '#f1c40f', '#1abc9c', '#34495e', '#7f8c8d',];
-let endscreenContent = {win: '<span>✔</span> you won! ❤️', loose: '❤️Booom! Alessandro Loves you more!'};
+let endscreenContent = {win: '<span>✔</span> You won! ❤️ You Love me more!', loose: '❤️Booom! Alessandro Loves you more!'};
 
 let gameOver = false;
 
